@@ -29,3 +29,6 @@ php artisan key:generate
 Migrar la base de datos:
 php artisan migrate
 
+Ejecutar proyecto:
+php artisan migrate
+
